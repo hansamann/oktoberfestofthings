@@ -7,11 +7,11 @@ $( document ).ready( function() {
 	sparkSSE();
 	
 	updateLevel(0, 100); updateLiftups(0, 0);
-	updateLevel(1, 100); updateLiftups(1, 0);
+	updateLevel(1, 50); updateLiftups(1, 0);
 	updateLevel(2, 100); updateLiftups(2, 0);
-	updateLevel(3, 100); updateLiftups(3, 0);
+	updateLevel(3, 80); updateLiftups(3, 0);
 	updateLevel(4, 100); updateLiftups(4, 0);
-	updateLevel(5, 100); updateLiftups(5, 0);
+	updateLevel(5, 15); updateLiftups(5, 0);
 	updateLevel(6, 100); updateLiftups(6, 0);
 	updateLevel(7, 100); updateLiftups(7, 0);
 
