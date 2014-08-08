@@ -13,4 +13,4 @@ The web UI is live at http://oktoberfestofthings.appspot.com. It will ask for a 
 
 <img src="https://raw.githubusercontent.com/hansamann/oktoberfestofthings/master/website/screenshot1.png"/>
 
-<img src="https://raw.githubusercontent.com/hansamann/oktoberfestofthings/blob/master/website/architecture.png"/>
+<img src="https://raw.githubusercontent.com/hansamann/oktoberfestofthings/master/website/architecture.png"/>
