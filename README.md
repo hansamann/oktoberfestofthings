@@ -11,6 +11,6 @@ The slick groovy-based web framework Gaelyk is mainly used for future extensibil
 
 The web UI is live at http://oktoberfestofthings.appspot.com. It will ask for a Spark Core access token which is saved to the HTML5 local storage without any encryption. 
 
-<img src="http://github.com/hansamann/oktoberfestofthings/blob/master/website/screenshot1.png"/>
+<img src="https://raw.githubusercontent.com/hansamann/oktoberfestofthings/master/website/screenshot1.png"/>
 
-<img src="http://github.com/hansamann/oktoberfestofthings/blob/master/website/architecture.png"/>
+<img src="https://raw.githubusercontent.com/hansamann/oktoberfestofthings/blob/master/website/architecture.png"/>
