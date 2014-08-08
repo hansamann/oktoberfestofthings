@@ -1,0 +1,78 @@
+html, body, .container-fluid {
+	height: 100%;
+	/*border: 1px solid red;*/
+}
+
+body {
+	background: url('/images/bavarian_pattern.png');
+
+}
+
+.title {
+	font-size: 150%;
+	font-weight: 800;
+	text-shadow: 0px 0px 4px #ffffff;
+}
+
+.row {
+	height: 50%;
+	/*border: 1px solid blue;*/
+
+}
+.col-md-3 {
+	padding: 10px;
+	/*border: 1px dashed black;*/
+	height: 100%;
+}
+
+.mug {
+    height: 100%;
+    text-align: center;
+}
+
+.masskrug {
+	position: relative;
+	margin: 0 auto;
+	width: 233px;
+	height: 235px;
+	/*border: 1px solid green;*/
+}
+
+.masskrug img {
+	position: absolute;
+	left: 0;
+	width: 233px;
+	height: 235px;
+	z-index: 1000;
+}
+
+.masskrug .level {
+	position: absolute;
+	left: 15px;
+	bottom: 0;
+	margin-bottom: 3px;
+	border-radius: 0 0 20px 20px; 
+	background: yellow;
+	width: 155px;
+	height: 214px;
+	z-index: 100;
+}
+
+.level_low {
+	-webkit-animation: glow 1s ease-in-out 0s infinite alternate;
+}
+
+.service {
+	-webkit-animation: request 0.5s ease-in-out 0s infinite alternate;
+}
+
+
+@-webkit-keyframes glow {
+    from {background: yellow;}
+    to {background: orange;}
+}
+
+@-webkit-keyframes request {
+    from {background: white;}
+    to {background: red;}
+}
